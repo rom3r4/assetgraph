@@ -56,7 +56,7 @@
     "teepee": "^2.23.0",
     "uglify-js": "2.6.4",
     "urltools": "0.2.1",
-    "xmldom": "0.1.22"
+    "xmldom": "0.6.0"
   },
   "devDependencies": {
     "autoprefixer": "^6.3.6",
